@@ -30,7 +30,7 @@
 
   "Mappings" : {
     "AWSInstanceType2Arch" : {
-      "t1.micro"    : { "Arch" : "64" },
+      "t1.micro"    : { "Arch" : "63" },
       "m1.small"    : { "Arch" : "64" },
       "m1.medium"   : { "Arch" : "64" },
       "m1.large"    : { "Arch" : "64" },
